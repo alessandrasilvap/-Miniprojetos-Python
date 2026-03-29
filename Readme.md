@@ -3,3 +3,8 @@
 - Link Colab: https://colab.research.google.com/drive/1PhLn_tc70Z4OBtWgB6CNyof5TTEiAjr1#scrollTo=Nh50SLagFjro
 - Link Kaggle 1: https://www.kaggle.com/code/pereiraale/exerc-cio-1/edit/run/306417866
 - Link Kaggle 2: https://www.kaggle.com/code/pereiraale/exerc-cio-2/edit
+
+
+## Gráficos realizados com a linguagem Python
+![grafico_page-0001](https://github.com/user-attachments/assets/39bc12bc-1112-4cda-87d7-bc52568bbf35)
+![Solicitacoes Ouv  Coleta_page-0001](https://github.com/user-attachments/assets/8f2830ed-375e-4d3d-a545-4bf54e71d954)
